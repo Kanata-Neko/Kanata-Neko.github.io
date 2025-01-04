@@ -292,6 +292,11 @@ hr {
 	z-index: 10;
 	background-repeat: no-repeat;
 }
+@media(orientation: landscape){
+	.element-img {
+		background-position: top 20% center;
+	}
+}
 hr.title-accent {
 	height: 4px;
 	width: 40px;
