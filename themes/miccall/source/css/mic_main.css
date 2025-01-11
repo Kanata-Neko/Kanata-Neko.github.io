@@ -34,10 +34,10 @@
 	#wrapper {
 		transform: none;
 		padding: 0;
-		-moz-transition: opacity 0.5s ease;
-		-webkit-transition: opacity 0.5s ease;
-		-ms-transition: opacity 0.5s ease;
-		transition: opacity 0.5s ease;
+		-moz-transition: opacity 0s ease;
+		-webkit-transition: opacity 0s ease;
+		-ms-transition: opacity 0s ease;
+		transition: opacity 0s ease;
 		position: relative;
 		z-index: 1;
 		overflow: hidden;
@@ -60,14 +60,14 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			-moz-transition: opacity 1s ease-in-out;
-			-webkit-transition: opacity 1s ease-in-out;
-			-ms-transition: opacity 1s ease-in-out;
-			transition: opacity 1s ease-in-out;
-			-moz-transition-delay: 0.75s;
-			-webkit-transition-delay: 0.75s;
-			-ms-transition-delay: 0.75s;
-			transition-delay: 0.75s;
+			-moz-transition: opacity 0s ease-in-out;
+			-webkit-transition: opacity 0s ease-in-out;
+			-ms-transition: opacity 0s ease-in-out;
+			transition: opacity 0s ease-in-out;
+			-moz-transition-delay: 0s;
+			-webkit-transition-delay: 0s;
+			-ms-transition-delay: 0s;
+			transition-delay: 0s;
 			background: #1e252d;
 			content: '';
 			display: block;
