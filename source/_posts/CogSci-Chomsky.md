@@ -39,11 +39,11 @@ thumbnail: /images/2.jpg
 
 第二，FLN/LAD 将公共语言的表层结构分析成深层结构，也叫短语结构(phrase structure)。如句子 "John hit the ball"，其句法树形如
 
-![alt text](image.png)
+![alt text](./CogSci-Chomsky/image.png)
 
 其中 S 表示句子，NP = Noun Phrase 表示名词短语，VP = Verbal Phrase 表示动词短语，Det = Determiner 表示限定词，N = Noun 表示名词。另一个例子的语法分析是
 
-![alt text](image-1.png)
+![alt text](./CogSci-Chomsky/image-1.png)
 
 第三，Chomsky 认为转换规则是程序化的，并且包含在 FLN 中。比如主动句到被动句的变换，其转换规则即为
 
@@ -90,7 +90,7 @@ Wexler 和 Manzini 还研究了先行词 (antecedent, 如代词 she) 和回指 (
 - 简单规则 (Simple Rule, SR)： 把第一个动词提前
 - 结构敏感规则 (Structure-Sensitive Rule, SSR)：把名词短语后的第一个动词提前
 
-实验结果是所有幼崽都是 SSR，高度提示了幼崽使用了结构敏感规则的心理表征进行了转换。由于实验涉及的句子几乎不可能被幼崽们言说过，这说明行为主义立场再一次失效。以上论证统称为刺激缺乏论证 (poverty-of-stimulus argument)。
+实验结果是所有幼崽都是 SSR，高度提示了幼崽使用了结构敏感规则的心理表征进行了转换。由于实验涉及的句子几乎不可能被幼崽们言说过，这说明行为主义立场再一次失效。
 
 ---
 \* Pinker. Words and Rules (1999).
