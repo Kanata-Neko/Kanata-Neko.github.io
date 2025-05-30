@@ -1,5 +1,5 @@
 ---
-title: CogSci-Anthro
+title: 认知科学笔记#13：拟人论及其批判
 date: 2025-03-20 22:38:22
 tags:
 ---
