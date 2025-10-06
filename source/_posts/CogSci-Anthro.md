@@ -35,7 +35,7 @@ Kohler 氏的著名实验中，黑猩猩叠起箱子并用一个杠子去拿够�
 
 > 所有对动物们的重复观察的总体印象导向一个结论，在黑猩猩中没有实践上值得观察的静力学问题。在进行实操中静力学问题里出现的几乎所有事情，它都是用盲目尝试而非洞见解决的。（自译）
 
-Kohler 氏最好的黑猩猩 Sultan 不知道如何处理堆叠第二个箱子：
+Kohler 氏手下最好的黑猩猩 Sultan 不知道如何处理堆叠第二个箱子：
 
 > Presently [Sultan] took notice of the second box and fetched it, but instead of placing it on the top of the first, as might seem obvious, began to gesticulate with it in a strange manner; he put it beside the first, then in the air diagonally above, and so forth.*****
 
