@@ -19,9 +19,9 @@ thumbnail: /images/MathFormalism.png
 
 ---
 
-\* De Morgan, A. Formal Logic. 1847.
+\* De Morgan, A. Formal Logic. 1847. 后世以「De Morgan 律」冠名纪念。
 
-** Boole, G. The Mathematical Analysis of Logic. 1847.
+** Boole, G. The Mathematical Analysis of Logic. 1847. 后世以 「Boole 代数」冠名纪念。
 
 *** Frege, G. Begriffsschrift. 1879. 
 
