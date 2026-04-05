@@ -84,7 +84,7 @@ Frege-Russell 两氏被认为是数学基础逻辑主义的代表人物。Frege 
 对于句子 $p$ 的形式系统 $S$ 的可证性，我们可以引入模态算子 $\square p$ 表记可证。在推理系统中如果引入模态逻辑三条标准规则
 
 1. 必然性规则：$\dfrac{\vdash p}{\vdash \square p}$
-2. 分离规则：$\dfrac{p \to q,p}{q}$
+2. 分离规则：$\dfrac{p \to q\qquad p}{q}$
 3. 分配公理：$\square(p\to q)\to (\square p\to\square q)$
 
 此外只需再把著名的 Lob-Godel 定理加上并且钦定为公理
